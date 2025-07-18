@@ -5,7 +5,7 @@ This project analyzes Indonesian product reviews from Tokopedia under the **Comp
 
 ## 📌 Project Overview
 - **Objective:** Extract insights such as sentiment, emotion, keywords, and product aspects from user reviews.
-- **Dataset:** [PREDICT-ID on Mendeley Data](https://data.mendeley.com/datasets/p43jmr7zr2/1)
+- **Dataset:** [PREDICT-ID on Mendeley Data](https://data.mendeley.com/datasets/574v66hf2v/1)
 - **Language:** Bahasa Indonesia
 - **Focus Category:** Computers & Technology
 
