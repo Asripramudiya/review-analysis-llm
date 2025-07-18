@@ -1,4 +1,4 @@
-# 🧠 Review Analysis with IBM Granite LLM
+# 🧠 Customer Review Analysis Using IBM Granite via Replicate API
 This project analyzes Indonesian product reviews from Tokopedia under the **Computers & Technology** category using **IBM Granite LLM** via Replicate API.
 
 ---
